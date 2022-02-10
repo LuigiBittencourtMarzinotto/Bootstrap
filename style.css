@@ -1,0 +1,28 @@
+body{
+    font-style: oblique;
+}
+ .navbar {
+    background-color: #5E610B;
+} 
+.quem-somos {
+    background-color: rgb(56, 153, 121);
+}
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.foto {
+    border-radius: 100%;
+}
+.texto {
+    font-size:larger;
+    padding-top: 25px;
+}
+.text-{
+    font-size: larger;
+}
+.servi {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:rgb(240, 128, 0)
+}
